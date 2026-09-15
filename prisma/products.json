@@ -1,0 +1,47 @@
+[
+  {
+    "name": "avant-garde lamp",
+    "company": "Modenza",
+    "description": "Sculptural and striking, this lamp is more than a light source—it's a statement piece. Its bold, artistic silhouette challenges convention and draws the eye in any room. Crafted with premium materials, it casts a warm, ambient glow that transforms your space. Perfect for design enthusiasts who dare to be different.",
+    "featured": true,
+    "image": "https://free-images.com/lg/d37e/lamp_crystal_clear_glass.jpg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 100,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "chic chair",
+    "company": "Luxora",
+    "description": "Elevate your interior with a chair that blends elegance and attitude effortlessly. Sleek lines and refined upholstery make it a standout accent for any corner. Ergonomically shaped for comfort without compromising on style. A must-have for those who believe seating should be as fashionable as it is functional.",
+    "featured": false,
+    "image": "https://free-images.com/lg/490c/chair_saying_shield_not.jpg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 200,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "comfy bed",
+    "company": "Homestead",
+    "description": "Sink into plush, supportive comfort designed for the deepest sleep of your life. A sturdy frame and sumptuous padding cradle you night after night. Thoughtfully engineered for relaxation, it turns any bedroom into a personal retreat. Wake up refreshed—because great days start with great rest.",
+    "featured": true,
+    "image": "https://free-images.com/md/16bc/bed_bedroom_single_bed.jpg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 300,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "contemporary sofa",
+    "company": "Comfora",
+    "description": "Clean lines and modern proportions define this effortlessly stylish centerpiece. Generous seating and premium cushioning offer comfort that lasts for hours. Neutral yet sophisticated, it pairs beautifully with any décor scheme. The ultimate blend of form and function for the modern living room.",
+    "featured": false,
+    "image": "https://free-images.com/md/d9a3/sofa_couch_living_room.jpg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 400,
+    "clerkId": "clerkId"
+  },
+  {
+    "name": "Natural mineral water",
+    "company": "Aqua Pure",
+    "description": "Sourced from protected natural springs and bottled at the source for unmatched freshness. Naturally filtered through mineral-rich layers, it delivers a crisp, clean taste in every sip. Free from additives and impurities, it's hydration in its purest form. Refresh yourself with the goodness of nature—nothing more, nothing less.",
+    "featured": true,
+    "image": "https://aquapure-zeta.vercel.app/assets/images/source.webp?auto=compress&cs=tinysrgb&w=1600",
+    "price": 400,
+    "clerkId": "clerkId"
+  }
+]
