@@ -510,7 +510,7 @@ npx prisma db push
 npx prisma studio
 ```
 
-## Optional - Prisma Crud
+### Optional - Prisma Crud
 
 [Prisma Docs](https://www.prisma.io/docs/concepts/components/prisma-client/crud)
 
@@ -2256,7 +2256,7 @@ import ImageInput from '@/components/form/ImageInput';
 import PriceInput from '@/components/form/PriceInput';
 import TextAreaInput from '@/components/form/TextAreaInput';
 import { faker } from '@faker-js/faker';
-import CheckboxInput from '@/components/form/CheckboxInput';
+import CheckBoxInput from '@/components/form/CheckBoxInput';
 
 function CreateProduct() {
   const name = faker.commerce.productName();
@@ -3462,7 +3462,7 @@ model Review {
 npx prisma db push
 ```
 
-- restar the server
+- restart the server
 
 ### Review Components and Actions
 
@@ -4623,9 +4623,9 @@ export default ThirdColumn;
 - actions.ts
 
 ```ts
-eexport const removeCartItemAction = async (
+export const removeCartItemAction = async (
   prevState: any,
-  formData: FormData
+  formData: FormData,
 ) => {
   const user = await getAuthUser();
   try {
